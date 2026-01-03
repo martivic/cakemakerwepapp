@@ -12,7 +12,8 @@
   "backgroundColor": "#B71C1C",
   "enableNotifications": true,
   "startUrl": "/",
-  "iconUrl": "https://cakemakerai.vercel.app/icon_cake512.png",
+  "iconUrl": "https://cakemakerai.vercel.app/icon_cake52.png",
+  "monochromeIconUrl": "https://cakemakerai.vercel.app/icon_cake52.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "C:\\dev\\cakemaker\\android.keystore",
