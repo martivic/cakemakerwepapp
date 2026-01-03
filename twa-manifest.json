@@ -13,7 +13,6 @@
   "enableNotifications": true,
   "startUrl": "/",
   "iconUrl": "https://cakemakerai.vercel.app/icon_cake512.png",
-  "monochromeIconUrl": "https://cakemakerai.vercel.app/icon_cake52.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "C:\\dev\\cakemaker\\android.keystore",
