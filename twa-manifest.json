@@ -5,6 +5,7 @@
   "launcherName": "CakeMakerAI",
   "display": "standalone",
   "themeColor": "#B71C1C",
+  "themeColorDark": "#000000",
   "navigationColor": "#000000",
   "navigationColorDark": "#000000",
   "navigationDividerColor": "#000000",
@@ -12,12 +13,12 @@
   "backgroundColor": "#B71C1C",
   "enableNotifications": true,
   "startUrl": "/",
-  "iconUrl": "https://cakemakerai.vercel.app/icon_cake52.png",
+  "iconUrl": "https://cakemakerai.vercel.app/icon_cake512.png",
   "monochromeIconUrl": "https://cakemakerai.vercel.app/icon_cake52.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "C:\\dev\\cakemaker\\android.keystore",
-    "alias": "android"
+    "alias": "keyandroid"
   },
   "appVersionName": "1",
   "appVersionCode": 1,
@@ -31,16 +32,20 @@
     }
   },
   "alphaDependencies": {
-    "enabled": true
+    "enabled": false
   },
   "enableSiteSettingsShortcut": true,
   "isChromeOSOnly": false,
   "isMetaQuest": false,
   "fullScopeUrl": "https://cakemakerai.vercel.app/",
-  "minSdkVersion": 19,
+  "minSdkVersion": 21,
   "orientation": "portrait",
   "fingerprints": [],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "displayOverride": [],
   "appVersion": "1"
 }
